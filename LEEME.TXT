@@ -2,3 +2,5 @@ Ejemplo de uso de GIT por consola
 
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+
+prueba
